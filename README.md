@@ -56,4 +56,4 @@ json
 Exam
 ```
 Example Output - Image Generated
-<img src="https://github.com/user-attachments/assets/f78816ef-c0a2-4771-ae68-37367e772aad" alt="drawing" width="300"/>
+<img src="https://github.com/kurai-sx/Amazon-Bedrock/blob/main/LLM-Integration-using-Amazon_Bedrock/generated_image.png" alt="drawing" width="300"/>
