@@ -43,7 +43,7 @@ python titan.py
 ## Image Generation (Titan Image Generator)
 Run the script to generate images using Amazon Titan:
 ```bash
-python image_generator.py
+python stablediffusion.py
 ```
 Generated images will be saved in the output/ folder.
 
