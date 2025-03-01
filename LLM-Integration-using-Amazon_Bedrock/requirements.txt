@@ -1,0 +1,4 @@
+boto3
+awscli
+base64
+os
